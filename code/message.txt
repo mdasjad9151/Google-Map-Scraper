@@ -1,0 +1,1 @@
+I try to do my best.I hope you like it. I'm a little unclear whether you want output in (.xlsx) or connect with Google API because the question just asked 'Extract your output in a Google sheet'.We can also open.xlsx files in Google Sheets.If you wish to connect with the Google API, I can accomplish that too. Thank you once again.
